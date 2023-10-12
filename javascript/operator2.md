@@ -17,7 +17,7 @@ c. false, "NaNnumber", false, "orange"
 
 d. true, "NaNnumber", true, "apple"   
 
-false, 2NaN false apple
+
 <br/>
 
 내가 선택한 답안 : a  
