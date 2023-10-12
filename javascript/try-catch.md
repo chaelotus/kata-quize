@@ -52,7 +52,7 @@ function hello() {
 <br/>
 
 ✅ 정답 : 
-![Alt text](image.png)
+![Alt text](../img/image.png)
 - ReferenceError : 객체는 현재 범위에서 존재하지 않거나 초기화되지 않은 변수를 참조했을 때 발생하는 에러를 나타냅니다.
 - error1.message : 오류 메시지
 - error1.name : 오류 이름
